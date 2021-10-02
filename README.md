@@ -1,2 +1,3 @@
 # coursera
-my coursera learning of web developement
+coursera learning of web developement
+Tech stack : Mongo db,Node js,React js
